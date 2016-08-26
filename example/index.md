@@ -1,4 +1,5 @@
 ---
+title: example
 layout: default
 ---
 
